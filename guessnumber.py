@@ -4,6 +4,7 @@
 # > explains that they will guess a number between 1 and 20
 # > generate a number between 1 and 20 (hint: use random.randint(min number, max number) )
 # > ask the user for their guess until they guess it or they have guessed 6 times, whichever comes first
+# Goal: Review for/while loops, if/else statements, user input, and terminal use. Introduce try/except.
 
 # Try it first, and if you need help, skeleton code is on the bottom.
 
@@ -29,9 +30,6 @@ import random
 
 # extra credit: What happens when a user guesses nothing or something that's not a number?
 # hint: look up try...except clauses.
-
-
-
 
 
 ### SKELETON CODE ###
