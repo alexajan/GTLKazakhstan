@@ -19,7 +19,7 @@ def check_even(num=0):
         return "even"
 
 # Question 3
-# Create a function that takes an arbitrary number of arguments.
+# Edit the function below to take that takes an arbitrary number of arguments.
 
 
 def make_sandwiches(size, *condiments):

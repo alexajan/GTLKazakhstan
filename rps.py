@@ -23,7 +23,7 @@ import random
 
 
 def ask_user():
-
+    """TODO fill in function description"""
     response = ""
     options = [] #TODO What are the possible responses?
 
@@ -58,12 +58,12 @@ def eval_winner(user, comp):
 
 def rps():
     """TODO fill in function description"""
-    # call ask_user
+    # TODO call ask_user
 
-    # call ask_computer
+    # TODO call ask_computer
 
     # Evaluate winner
-    score = eval_winner(..., ...)
+    score = #TODO call eval_winner using the responses from above
 
     return score
 
@@ -71,7 +71,7 @@ def rps():
 def main():
     score = 0
     while True:
-        score += rps()
+        score += #TODO call rps function
         print("Your current score is " + str(score) + ".")
     print("Thanks for playing.")
 
