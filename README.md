@@ -17,3 +17,12 @@ Day 3: Intro to OOP
 - Mad libs (30 min)
 - Review Mad libs (10 min)
 - HW: [Check 3](https://forms.gle/XeH6YeefueXSX1XA9)
+
+Day 4: OOP Continued
+- [Inheritance](https://docs.google.com/presentation/d/1XitVQbxjzE9sU_IOv7j6AE2wbf6aptqw-vEzlsC9z_4/edit?usp=sharing) (15 min)
+- Chat bot (30 min)
+- Review Chat bot (10 min)
+- HW: Check 4
+
+Day 5: Student Exploration
+- Expand a previous project
